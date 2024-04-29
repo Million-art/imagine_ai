@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "types/index.d.ts", "app/api/webhooks/clerk/air_bnb/route.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "types/index.d.ts", "app/api/webhooks/clerk/air_bnb/route.js", "testP/my-nextjs-mongodb-app/app/page.jsx"],
   "exclude": ["node_modules"]
 }
